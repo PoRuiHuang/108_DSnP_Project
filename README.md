@@ -1,1 +1,1 @@
-These are project that I write during 108_DSNP, using C++
+These are works that I had done during 108_DSNP, using C++
